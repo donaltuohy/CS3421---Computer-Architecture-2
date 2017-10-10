@@ -69,7 +69,7 @@ min1:
 		ret 0
 ```
 
-<h2>p(int a, int b, int c, int d)</h2>
+<h2> p(int a, int b, int c, int d) </h2>
 
 ```Assembly
 p:		
