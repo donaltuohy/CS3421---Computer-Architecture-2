@@ -97,11 +97,11 @@ p:
 		mov esp, ebp
 		pop ebp
 		ret 0
-    ```
+```
     
     <h2>gcd(int a, int b)</h2>
     
-    ```Assembly
+```Assembly
     gcd:	
 		; Store the enviroment
 		push ebp			; Save old ebp	
