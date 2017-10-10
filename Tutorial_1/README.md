@@ -33,7 +33,7 @@ int gcd(int a, int b) {
 
 <h2>min(int a, int b, int c)</h2>
 
-```masm
+```Assembly
 min:
 		;Storing enviroment
 		push	ebp			; Push the original frame pointer
@@ -71,7 +71,7 @@ min1:
 
 <h2>p(int a, int b, int c, int d)</h2>
 
-```masm
+```Assembly
 p:		
 ;		;Storing the enviroment
 		push ebp			; Save original frame pointer
@@ -101,7 +101,7 @@ p:
     
     <h2>gcd(int a, int b)</h2>
     
-    ```masm
+    ```Assembly
     gcd:	
 		; Store the enviroment
 		push ebp			; Save old ebp	
